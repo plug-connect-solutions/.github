@@ -63,7 +63,7 @@ Depending on the project, you may encounter:
 * **Backend:** Node.js, Firebase, Supabase, PHP
 * **Databases:** PostgreSQL, MySQL, NoSQL solutions
 * **Automation:** n8n, Webhooks, APIs
-* **AI:** OpenAI APIs, AI agents, intelligent workflows
+* **AI:** OpenAI APIs, AI agents, intelligent workflows, Gemini 3 APIs
 * **DevOps & Tools:** Git, GitHub Actions, cloud platforms
 
 This list evolves as technologies and project needs change.
