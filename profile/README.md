@@ -101,7 +101,7 @@ If you’re interested in:
 Reach out via our official communication channels:
 
 * **Business Name:** Plug Connect Solutions
-* **Website:** plugconnectsolutions.co.za
+* **Website:** https://plugconnectsolutions.co.za
 * **Email:** [info@plugconnectsolutions.co.za](mailto:info@plugconnectsolutions.co.za) *(update if needed)*
 
 ---
@@ -112,4 +112,4 @@ All projects in this organization are the intellectual property of Plug Connect 
 
 ---
 
-**Plug in. Automate. Scale.**
+**Plug in Automate & Scale with Plug Connect Solutions, where we Plug and Connect your business with our Solutions**
