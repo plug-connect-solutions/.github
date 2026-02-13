@@ -103,7 +103,11 @@ Reach out via our official communication channels:
 * **Business Name:** Plug Connect Solutions
 * **Website:** https://plugconnectsolutions.co.za
 * **Email:** [plugconnectsolutions@proton.me](plugconnectsolutions@proton.me)
-* * **Facebook:** [Plug Connect Solutions](https://www.facebook.com/profile.php?id=61584670473805)
+* **Facebook:** [Plug Connect Solutions](https://www.facebook.com/profile.php?id=61584670473805)
+* **Instagram:** [Plug Connect Solutions](https://www.instagram.com/plugconnectsols)
+* **X:** [Plug Connect Solutions](https://x.com/plugconnectsols)
+* **LinkedIn:** [Plug Connect Solutions](https://www.linkedin.com/company/plug-connect-solutions/)
+* **Tik Tok:** [Plug Connect Solutions](https://www.tiktok.com/@plugconnectsolutions?_d=secCgYIASAHKAESPgo8c1%2FvTFkj6TT0kKIV8aVviHpgIPhKZr1B8ACTKYRy5Rg8XUePSMs5CdHo62eZUA5GeujMk92h5Hr4er8hGgA%3D&_r=1&_svg=1&checksum=e177f8529068dee98b8513c4f8b1c1100447c3ec62fb15dedcfaa1ccd32a8a53&lang=en&sec_uid=MS4wLjABAAAAK3Od0Xe104HFkaVfShqZMRUrjLtwfnHjGs65aORMfgHis8dpN7ndY9jUemEQQEUX&sec_user_id=MS4wLjABAAAA3DJoI__qFycYJtAe5Zj6ghWyNUUWXH3AQ8qyMepTSCJhjTMtpVfOp74aKOHxPrng&share_app_id=1340&share_author_id=7566376018224612360&share_link_id=481fa844-2fcc-475c-ad48-cab5a66136e0&share_region=ZA&share_scene=1&sharer_language=en&source=h5_m&timestamp=1765574097&u_code=e99m60jm4ll6db&ugbiz_name=Account&user_id=7263238232962974725)
 
 ---
 
