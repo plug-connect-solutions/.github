@@ -102,7 +102,8 @@ Reach out via our official communication channels:
 
 * **Business Name:** Plug Connect Solutions
 * **Website:** https://plugconnectsolutions.co.za
-* **Email:** [plugconnectsolutions@proton.me](plugconnectsolutions@proton.me) 
+* **Email:** [plugconnectsolutions@proton.me](plugconnectsolutions@proton.me)
+* * **Facebook:** [Plug Connect Solutions](https://www.facebook.com/profile.php?id=61584670473805)
 
 ---
 
